@@ -21,4 +21,5 @@ public class Jąkanie {
     public void run(){
         wypisz(split(pobierz()));
     }
+
 }
